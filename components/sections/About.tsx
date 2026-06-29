@@ -2,7 +2,7 @@ export default function About() {
   return (
     <section
       id="about"
-      className="max-w-4xl mx-auto px-6 py-24"
+      className="max-w-4xl mx-auto px-6 py-24 border-t border-gray-800"
     >
       <h2 className="text-3xl font-bold mb-8">
         About Me
